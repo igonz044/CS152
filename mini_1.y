@@ -88,15 +88,6 @@ void yyerror(const char* s);
 %left MULT
 %left DIV
 %left MOD
-
-
-
-
-
-
-
-
-
 %left ASSIGN
 
 
